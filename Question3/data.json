@@ -1,0 +1,773 @@
+[
+    {
+        "_id": 1,
+        "category_id":1,
+        "category_name":"Revamp your home in styles",
+        "category_image":"https://ibb.co/DWrZj4S",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":299,
+        "contact_number": 9160133315,
+        "category_type":[
+            {
+                "category_id":1,
+                "category":"Revamp your home in styles"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "category_id":1,
+        "category_name":"Revamp your home in styles",
+        "category_image":"https://ibb.co/k9npJH3",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":500,
+        "contact_number": 9866884852,
+        "category_type":[
+            {
+                "category_id":1,
+                "category":"Revamp your home in styles"
+            }
+        ] 
+    },
+    {
+        "_id": 3,
+        "category_id":1,
+        "category_name":"Revamp your home in styles",
+        "category_image":"https://ibb.co/k9npJH3",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":700,
+        "contact_number": 8170171534,
+        "category_type":[
+            {
+                "category_id":1,
+                "category":"Revamp your home in styles"
+            }
+        ] 
+    },
+    {
+        "_id": 4,
+        "category_id":1,
+        "category_name":"Revamp your home in styles",
+        "category_image":"https://ibb.co/PFw9B3j",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":250,
+        "contact_number": 8886667777,
+        "category_type":[
+            {
+                "category_id":1,
+                "category":"Revamp your home in styles"
+            }
+        ] 
+    },
+    {
+        "_id": 5,
+        "category_id":2,
+        "category_name":"Mobiles",
+        "category_image":"https://ibb.co/LZ7vxhQ",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":12000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":2,
+                "category":"Mobiles"
+            }
+        ] 
+    },
+    {
+        "_id": 6,
+        "category_id":2,
+        "category_name":"Mobiles",
+        "category_image":"https://ibb.co/p44yqqw",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":12500,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":2,
+                "category":"Mobiles"
+            }
+        ] 
+    },
+    {
+        "_id": 7,
+        "category_id":2,
+        "category_name":"Mobiles",
+        "category_image":"https://ibb.co/X3B1sLw",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":18000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":2,
+                "category":"Mobiles"
+            }
+        ] 
+    },
+    {
+        "_id": 8,
+        "category_id":2,
+        "category_name":"Mobiles",
+        "category_image":"https://ibb.co/3mcNMng",
+        "average_rating": 4.8,
+        "rating_text": "Very Good",
+        "cost":75000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":2,
+                "category":"Mobiles"
+            }
+        ] 
+    },
+    {
+        "_id": 9,
+        "category_id":3,
+        "category_name":"Electronics",
+        "category_image":"https://ibb.co/yPgJXDH",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost":1200,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":3,
+                "category":"Electronics"
+            }
+        ] 
+    },
+    {
+        "_id": 10,
+        "category_id":3,
+        "category_name":"Electronics",
+        "category_image":"https://ibb.co/ZxXKCwz",
+        "average_rating": 3.8,
+        "rating_text": "Average",
+        "cost":80000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":3,
+                "category":"Electronics"
+            }
+        ] 
+    },
+    {
+        "_id": 11,
+        "category_id":3,
+        "category_name":"Electronics",
+        "category_image":"https://ibb.co/0ZjCvgT",
+        "average_rating": 4.0,
+        "rating_text": "Very Good",
+        "cost":32990,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":3,
+                "category":"Electronics"
+            }
+        ] 
+    },
+    {
+        "_id": 12,
+        "category_id":3,
+        "category_name":"Electronics",
+        "category_image":"https://ibb.co/Dg7xHXk",
+        "average_rating": 4.0,
+        "rating_text": "Very Good",
+        "cost":50000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":3,
+                "category":"Electronics"
+            }
+        ] 
+    },
+    {
+        "_id": 13,
+        "category_id":4,
+        "category_name":"Furnitures",
+        "category_image":"https://ibb.co/3BxZ9Ch",
+        "average_rating": 4.0,
+        "rating_text": "Very Good",
+        "cost":20000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":4,
+                "category":"Furnitures"
+            }
+        ] 
+    },
+    {
+        "_id": 14,
+        "category_id":4,
+        "category_name":"Furnitures",
+        "category_image":"https://ibb.co/WyFmq6X",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":5000,
+        "contact_number": 9453524650,
+        "category_type":[
+            {
+                "category_id":4,
+                "category":"Furnitures"
+            }
+        ] 
+    },
+    {
+        "_id": 15,
+        "category_id":4,
+        "category_name":"Furnitures",
+        "category_image":"https://ibb.co/fMR8T87",
+        "average_rating": 4.0,
+        "rating_text": "Very Good",
+        "cost":4500,
+        "contact_number": 9453524251,
+        "category_type":[
+            {
+                "category_id":4,
+                "category":"Furnitures"
+            }
+        ] 
+    },
+    {
+        "_id": 16,
+        "category_id":4,
+        "category_name":"Furnitures",
+        "category_image":"https://ibb.co/pbMP8LB",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":15000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":4,
+                "category":"Furnitures"
+            }
+        ] 
+    },
+    {
+        "_id": 17,
+        "category_id":5,
+        "category_name":"Groceries",
+        "category_image":"https://ibb.co/K5gYssm",
+        "average_rating": 4.9,
+        "rating_text": "Very Good",
+        "cost":460,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":5,
+                "category":"Groceries"
+            }
+        ] 
+    },
+    {
+        "_id": 18,
+        "category_id":5,
+        "category_name":"Groceries",
+        "category_image":"https://ibb.co/GRZ2Bpw",
+        "average_rating": 4.6,
+        "rating_text": "Very Good",
+        "cost":670,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":5,
+                "category":"Groceries"
+            }
+        ] 
+    },
+    {
+        "_id": 19,
+        "category_id":5,
+        "category_name":"Groceries",
+        "category_image":"https://ibb.co/whZk095",
+        "average_rating": 4.9,
+        "rating_text": "Very Good",
+        "cost":118,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":5,
+                "category":"Groceries"
+            }
+        ] 
+    },
+    {
+        "_id": 20,
+        "category_id":5,
+        "category_name":"Groceries",
+        "category_image":"https://ibb.co/9vqnxkD",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost":120,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":5,
+                "category":"Groceries"
+            }
+        ] 
+    },
+    {
+        "_id": 21,
+        "category_id":6,
+        "category_name":"Cosmetics",
+        "category_image":"https://ibb.co/m9kJMGk",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":350,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":6,
+                "category":"Cosmetics"
+            }
+        ] 
+    },
+    {
+        "_id": 22,
+        "category_id":6,
+        "category_name":"Cosmetics",
+        "category_image":"https://ibb.co/Bt0CMZJ",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":500,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":6,
+                "category":"Cosmetics"
+            }
+        ] 
+    },
+    {
+        "_id": 23,
+        "category_id":6,
+        "category_name":"Cosmetics",
+        "category_image":"https://ibb.co/BZ03LxL",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":1800,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":6,
+                "category":"Cosmetics"
+            }
+        ] 
+    },
+    {
+        "_id": 24,
+        "category_id":6,
+        "category_name":"Cosmetics",
+        "category_image":"https://ibb.co/McxJ9JB",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":1500,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":6,
+                "category":"Cosmetics"
+            }
+        ] 
+    },
+    {
+        "_id": 25,
+        "category_id":7,
+        "category_name":"Accessories",
+        "category_image":"https://ibb.co/WgrXSM9",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":650,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":7,
+                "category":"Accessories"
+            }
+        ] 
+    },
+    {
+        "_id": 26,
+        "category_id":7,
+        "category_name":"Accessories",
+        "category_image":"https://ibb.co/2YwV7v1",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":550,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":7,
+                "category":"Accessories"
+            }
+        ] 
+       
+    },
+    {
+        "_id": 27,
+        "category_id":7,
+        "category_name":"Accessories",
+        "category_image":"https://ibb.co/1RQfbGj",
+        "average_rating": 4.0,
+        "rating_text": "Very Good",
+        "cost":800,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":7,
+                "category":"Accessories"
+            }
+        ] 
+    },
+    {
+        "_id": 28,
+        "product_name": "Accessories",
+        "category_id":7,
+        "category_name":"Accessories",
+        "category_image":"https://ibb.co/ZTN69K7",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":1200,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":7,
+                "category":"Accessories"
+            }
+        ] 
+    },
+    {
+        "_id": 29,
+        "category_id":8,
+        "category_name":"Watch",
+        "category_image":"https://ibb.co/W6Dd1t3",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":899,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":8,
+                "category":"Watch"
+            }
+        ] 
+    },
+    {
+        "_id": 30,
+        "category_id":8,
+        "category_name":"Watch",
+        "category_image":"https://ibb.co/mh17c5g",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":5000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":8,
+                "category":"Watch"
+            }
+        ]
+    },
+    {
+        "_id": 31,
+        "category_id":8,
+        "category_name":"Watch",
+        "category_image":"https://ibb.co/yXHTdbG",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost":999,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":8,
+                "category":"Watch"
+            }
+        ]
+    },
+    {
+        "_id": 32,
+        "category_id":8,
+        "category_name":"Watch",
+        "category_image":"https://ibb.co/9HgXHT7",
+        "average_rating": 4.8,
+        "rating_text": "Very Good",
+        "cost":4000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":8,
+                "category":"Watch"
+            }
+        ]
+    },
+    {
+        "_id": 33,
+        "category_id":9,
+        "category_name":"lighting decoration",
+        "category_image":"https://ibb.co/642W7pG",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":1200,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":9,
+                "category":"lighting decoration"
+            }
+        ]
+    },
+    {
+        "_id": 34,
+        "category_id":9,
+        "category_name":"lighting decoration",
+        "category_image":"https://ibb.co/jkK6pbL",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":1200,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":9,
+                "category":"lighting decoration"
+            }
+        ]
+       
+    },
+    {
+        "_id": 35,
+        "category_id":9,
+        "category_name":"lighting decoration",
+        "category_image":"https://ibb.co/YPpn4sr",
+        "average_rating": 4.4,
+        "rating_text": "Very Good",
+        "cost":1000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":9,
+                "category":"lighting decoration"
+            }
+        ]
+    },
+    {
+        "_id": 36,
+        "category_id":9,
+        "category_name":"lighting decoration",
+        "category_image":"https://ibb.co/QHJh9Gz",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":300,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":9,
+                "category":"lighting decoration"
+            }
+        ]
+    },
+    {
+        "_id": 37,
+        "category_id":10,
+        "category_name":"Books",
+        "category_image":"https://ibb.co/TR8mX4R",
+        "average_rating": 4.4,
+        "rating_text": "Very Good",
+        "cost":350,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":10,
+                "category":"Books"
+            }
+        ]
+    },
+    {
+        "_id": 38,
+        "category_id":10,
+        "category_name":"Books",
+        "category_image":"https://ibb.co/0nX9Y5X",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":400,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":10,
+                "category":"Books"
+            }
+        ]
+    },
+    {
+        "_id": 39,
+        "category_id":10,
+        "category_name":"Books",
+        "category_image":"https://ibb.co/qCwpTch",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":450,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":10,
+                "category":"Books"
+            }
+        ]
+    },
+    {
+        "_id": 40,
+        "category_id":10,
+        "category_name":"Books",
+        "category_image":"https://ibb.co/Y2pJtS8",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":455,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":10,
+                "category":"Books"
+            }
+        ]
+    },
+    {
+        "_id": 41,
+        "category_id":11,
+        "category_name":"Garments",
+        "category_image":"https://ibb.co/Vq7dffC",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":2000,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":11,
+                "category":"Garments"
+            }
+        ]
+    },
+    {
+        "_id": 42,
+        "category_id":11,
+        "category_name":"Garments",
+        "category_image":"https://ibb.co/gdFfWMF",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":2500,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":11,
+                "category":"Garments"
+            }
+        ]
+    },
+    {
+        "_id": 43,
+        "category_id":11,
+        "category_name":"Garments",
+        "category_image":"https://ibb.co/NLHyy7d",
+        "average_rating": 4.0,
+        "rating_text": "Very Good",
+        "cost":499,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":11,
+                "category":"Garments"
+            }
+        ]
+    },
+    {
+        "_id": 44,
+        "category_id":11,
+        "category_name":"Garments",
+        "category_image":"https://ibb.co/gDLW3Yw",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost":3500,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":11,
+                "category":"Garments"
+            }
+        ]
+    },
+    {
+        "_id": 45,
+        "category_id":12,
+        "category_name":"Baby kits & toys",
+        "category_image":"https://ibb.co/4fJHcLh",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":250,
+        "contact_number": 9453524651,
+        "category_type":[
+            {
+                "category_id":12,
+                "category":"Baby kits & toys"
+            }
+        ]
+    },
+    {
+        "_id": 46,
+        "category_id":12,
+        "category_name":"Baby kits & toys",
+        "category_image":"https://ibb.co/6BjSxF4",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":600,
+        "contact_number": 9247166618,
+        "category_type":[
+            {
+                "category_id":12,
+                "category":"Baby kits & toys"
+            }
+        ]
+    },
+    {
+        "_id": 47,
+        "category_id":12,
+        "category_name":"Baby kits & toys",
+        "category_image":"https://ibb.co/P1dMbdy",
+        "average_rating": 4.3,
+        "rating_text": "Very Good",
+        "cost":1000,
+        "contact_number": 8688145688,
+        "category_type":[
+            {
+                "category_id":12,
+                "category":"Baby kits & toys"
+            }
+        ]
+    },
+    {
+        "_id": 48,
+        "category_id":12,
+        "category_name":"Baby kits & toys",
+        "category_image":"https://ibb.co/HpQKhky",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":1800,
+        "contact_number": 9618241207,
+        "category_type":[
+            {
+                "category_id":12,
+                "category":"Baby kits & toys"
+            }
+        ]
+    }
+]

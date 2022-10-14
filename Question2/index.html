@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Html CRUD with Pure JavaScript
+    </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <table>
+        <tr>
+            <!-- Html form for crud operations-->
+            <td>
+                <form onsubmit="event.preventDefault();onFormSubmit();" autocomplete="off">
+                   <h1>Product master</h1>
+
+                    <div>
+                        <label>Product Name*</label><label class="validation-error hide" id="ProductNameValidationError">This field is required.</label>
+                        <input type="text" name="ProductName" id="ProductName">
+                    </div>
+                    <div>
+                        <label>Product Id</label>
+                        <input type="text" name="ProductId" id="ProductId">
+                    </div>
+                    <div  class="form-action-buttons">
+                        <input type="submit" value="submit">
+                    </div>
+                </form>
+            </td>
+            <!-- Table to list all u r records-->
+            <td>
+                <table class="list"  id="ProductList">
+                    <thead>
+                        <tr>
+                            <th>Product Name</th>
+                            <th>Product Id</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <script src="script.js"></script>
+</body>
+
+</html>

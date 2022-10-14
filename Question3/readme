@@ -1,0 +1,10 @@
+//live link https://amazonnodeapi.herokuapp.com
+
+//page1 //list of categories https://amazonnodeapi.herokuapp.com/category
+
+http://localhost:7900/category
+
+//page2 //products as per categories https://amazonnodeapi.herokuapp.com/getProducts/?category_id=4
+
+http://localhost:7900/getProducts/?category_id=4
+

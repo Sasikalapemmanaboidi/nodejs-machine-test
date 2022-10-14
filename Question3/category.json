@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "category": "Revamp your home in styles"
+    },
+    {
+        "id":2,
+        "category":"Mobiles"
+    },
+    {
+        "id":3,
+        "category":"Electronics"
+    },
+    {
+        "id":4,
+        "category":"Furnitures"
+    },
+    {
+        "id":5,
+        "category":"Groceries"
+    },
+    {
+        "id":6,
+        "category":"Cosmetics"
+    },
+    {
+        "id":7,
+        "category":"Accessories"
+    },
+    {
+        "id":8,
+        "category":"Watch"
+    },
+    {
+        "id":9,
+        "category":"lighting decoration"
+    },
+    {
+        "id":10,
+        "category":"Books"
+    },
+    {
+        "id":11,
+        "category":"Garments"
+    },
+    {
+        "id":12,
+        "category":"Baby kits & toys"
+    }
+]
